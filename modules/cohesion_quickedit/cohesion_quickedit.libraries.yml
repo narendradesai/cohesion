@@ -1,0 +1,17 @@
+quickedit:
+  css:
+    theme:
+      css/quickedit.css: {}
+  js:
+    js/quickedit.js: {}
+  dependencies:
+    - core/drupal
+    - core/jquery
+    - core/drupalSettings
+svgxuse:
+  js:
+    js/svgxuse.js: {}
+  dependencies:
+    - core/drupal
+    - core/jquery
+    - core/drupalSettings
